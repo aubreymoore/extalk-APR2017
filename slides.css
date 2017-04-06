@@ -1,0 +1,56 @@
+/* to use this stylesheet add the following option to the command line:
+  --css slides.css
+*/
+.slides h1 {font-size: 1.3em; color: darkorange }
+.slides h2 {font-size: 1em; }
+.slides h3 {font-size: 1em; }
+.slides img { height: 425px; }
+.slides strong {color: darkorange; }
+
+img[alt=supersizeme] {
+  width: 100%;
+  height: auto;
+  border: none;
+  background: none;
+}
+img[alt=size90] {
+  width: 90%;
+  height: auto;
+  border: none;
+  background: none;
+}
+
+img[alt=size80] {
+  width: 80%;
+  height: auto;
+  border: none;
+  background: none;
+}
+
+img[alt=size70] {
+  width: 70%;
+  height: auto;
+  border: none;
+  background: none;
+}
+
+img[alt=size60] {
+  width: 60%;
+  height: auto;
+  border: none;
+  background: none;
+}
+
+img[alt=size50] {
+  width: 50%;
+  height: auto;
+  border: none;
+  background: none;
+}
+
+img[alt=size40] {
+  width: 40%;
+  height: auto;
+  border: none;
+  background: none;
+}
